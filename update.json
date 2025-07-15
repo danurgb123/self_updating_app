@@ -2,12 +2,12 @@
   "data" : [
     {
      "version": "1.0.0+2",
-     "url": "https://api.github.com/danurgb123/self_updating_app/releases/download/1.9.13%2B113/app-staging-release.apk",
+     "url": "https://github.com/danurgb123/self_updating_app/releases/download/1.0.0%2B2/app-staging-release.apk",
      "changelog": "second build"
    }, 
    {
      "version": "1.0.0+1",
-     "url": "https://api.github.com/danurgb123/self_updating_app/releases/download/1.9.13%2B113/app-staging-release.apk",
+     "url": "https://github.com/danurgb123/self_updating_app/releases/download/1.0.0%2B1/app-staging-release.apk",
      "changelog": "first build"
    } 
   ]
